@@ -44,7 +44,7 @@ python3 broker_manager.py
 
 ## Meta
 
-Christian Ascone – c.ascone@lunaflpartner.it - ascone.christian@gmail.com
+Christian Ascone – ascone.christian@gmail.com
 
 <!-- Markdown link & img dfn's -->
 [project-image]: https://img.shields.io/badge/simple_python_mqtt_client-0.00.02-green.svg
