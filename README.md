@@ -46,6 +46,8 @@ python3 broker_manager.py
 
 Christian Ascone – ascone.christian@gmail.com
 
+Distributed under the MIT license. See ``LICENSE`` for more information.
+
 <!-- Markdown link & img dfn's -->
 [project-image]: https://img.shields.io/badge/simple_python_mqtt_client-0.00.02-green.svg
 [python-image]: https://img.shields.io/badge/python-3.7-brightgreen.svg
