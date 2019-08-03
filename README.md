@@ -19,6 +19,7 @@ virtualenv -p python3 venv
 
 Install dependencies
 ```sh
+pip3 install pipenv
 pipenv install
 ```
 
